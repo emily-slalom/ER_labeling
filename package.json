@@ -2,7 +2,7 @@
   "name": "recordlinkage-annotator",
   "version": "0.1.7",
   "private": true,
-  "homepage": "https://J535D165.github.io/recordlinkage-annotator",
+  "homepage": "https://emily-lynn.github.io/ER_labeling",
   "dependencies": {
     "@material-ui/core": "^4.5.2",
     "@material-ui/icons": "^4.5.1",
